@@ -1,0 +1,16 @@
+So next up, we're going to cover some Pseudo classes. 
+
+Pseudo classes are keywords added to a selector that
+specifies a special state of the selected element(s).
+
+So we use pseudo selectors to make selections like:
+
+Every item on the list, except x, or except y.
+
+For example, we can select only 
+checkboxes that have been checked. 
+
+Or elements that have been hovered over. 
+
+Or every other button, or every 5th button, or every 9th
+button, etc. 
